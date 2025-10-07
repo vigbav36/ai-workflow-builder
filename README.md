@@ -108,7 +108,7 @@ This project provides a framework for defining complex AI workflows using JSON-b
 
 # Graph Based Frontend UI 
 
-A work in progress, idea is to use react flow to build a graph UI to make it more easier to define AI workflows
+A work in progress, idea is to use react flow to build a graph UI to make it more easier to define AI workflows, similar to n8n
 
 ![image](https://github.com/user-attachments/assets/4d46e13f-5836-4f4b-8a5e-4c6395e18861)
 
